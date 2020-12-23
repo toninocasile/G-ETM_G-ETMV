@@ -6,8 +6,9 @@ temporal modulations and trial-by-trial variability in spike trains.
 
 by Casile A., Faghih R. T. & Brown E. N.
 
+published in PLoS Computational Biology
 
-For computational reasons, we use Matlab's parallel toolbox. If that is
+For computational reasons, we used Matlab's parallel toolbox. If that is
 not available the "parfor" commnands in the routines fitGLM_G_ETM, fitGLM_G_ETMV,
 runGranger_G_ETM and runGranger_G_ETMV must be substituted with a "for".
 
