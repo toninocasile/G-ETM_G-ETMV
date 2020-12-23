@@ -1,4 +1,3 @@
-# G-ETM_G-ETMV
 This repository contains the Matlab files to implement the G-ETM and G-ETMV methods
 described in :
 
